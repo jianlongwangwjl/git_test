@@ -14,5 +14,9 @@ public class Main {
         System.out.println("nihaotwo");
         System.out.println("nihaotwo");
 
+        System.out.println("nihaoupdate");
+        System.out.println("nihaoupdate");
+        System.out.println("nihaoupdate");
+        System.out.println("nihaoupdate");
     }
 }
