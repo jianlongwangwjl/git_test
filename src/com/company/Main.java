@@ -9,6 +9,9 @@ public class Main {
         System.out.println("nihao");
         System.out.println("nihao");
         System.out.println("nihao");
-        System.out.println("nihao");
+        System.out.println("nihaoupdate");
+        System.out.println("nihaoupdate");
+        System.out.println("nihaoupdate");
+        System.out.println("nihaoupdate");
     }
 }
